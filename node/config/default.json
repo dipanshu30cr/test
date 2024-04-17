@@ -1,0 +1,8 @@
+{
+    "server": "localhost",
+    "db": "databse_table",
+    "user" : "root",
+    "pwd": "Dipanshu@123",
+    "PORT": 9999
+
+}
